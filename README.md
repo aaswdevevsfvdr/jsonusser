@@ -3,6 +3,9 @@
 **Мои соц.сети**
 
 [![VK](https://img.shields.io/badge/VK---?logo=vk&style=for-the-badge&color=7fa7d4)](https://vk.com/jsonuser)
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=pelemen228&show_icons=true&count_private=true&theme=graywhite">
 
 ---
 
