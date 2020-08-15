@@ -8,8 +8,8 @@
 
 **Мой рабочий стэк**
 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org&style=for-the-badge)](https://nodejs.org)
-[![React](https://img.shields.io/badge/-React-61D3FB?logo=React&logoColor=white&link=https://reactjs.org/&style=for-the-badge)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&link=https://nodejs.org&style=for-the-badge)]
+[![React](https://img.shields.io/badge/-React-61D3FB?logo=React&logoColor=white&link=https://reactjs.org/&style=for-the-badge)]
 
 
 <!--
