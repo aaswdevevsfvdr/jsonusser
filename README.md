@@ -2,6 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=pelemen228&show_icons=true&count_private=true&theme=graywhite">
 
+[![danya7423 статистика Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=danya7423)](https://wakatime.com/@danya7423)
 ---
 
 **Мой рабочий стэк**
